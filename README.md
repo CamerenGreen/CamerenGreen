@@ -1,4 +1,4 @@
-My name is Cameren, a student at the University of Kansas majoring in Computer Science
+My name is Cameren, a student at the University of Kansas studying Computer Science
 
 JavaScript, Python, Go
 
