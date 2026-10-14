@@ -1,6 +1,6 @@
 ### Hey, I'm Cameren
 
-Computer Science student at the University of Kansas. I build web apps, backend tools, and projects exploring AI and cybersecurity.
+I build web apps, backend tools, and projects exploring AI and cybersecurity.
 
 **Skills:** Python · JavaScript · TypeScript · Java · C/C++ · Go · SQL · React · FastAPI · Docker · AWS
 
