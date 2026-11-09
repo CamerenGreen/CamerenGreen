@@ -1,6 +1,6 @@
 ### Hey, I'm Cameren
 
-I build web apps, backend tools, and projects exploring AI and cybersecurity.
+I build web apps, backend tools, and projects delving into AI and cybersecurity.
 
 **Skills:** Python · JavaScript · TypeScript · Java · C/C++ · Go · Rust · Elixir · Haskell · SQL · React · FastAPI · Docker · AWS
 
